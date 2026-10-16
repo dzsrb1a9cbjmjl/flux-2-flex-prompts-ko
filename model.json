@@ -1,0 +1,27 @@
+{
+  "id": "flux-2-flex",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-16T01:43:30Z",
+  "prices": {
+    "1MP": {
+      "list": 0.05,
+      "effective": 0.04
+    },
+    "2MP": {
+      "list": 0.1,
+      "effective": 0.08
+    },
+    "3MP": {
+      "list": 0.15,
+      "effective": 0.12
+    },
+    "4MP": {
+      "list": 0.2,
+      "effective": 0.16
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.04 per image on the APIMart route",
+  "model_page": "https://apimart.ai/model/flux-2-flex"
+}
